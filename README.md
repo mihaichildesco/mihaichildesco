@@ -66,7 +66,7 @@ I am a Frontend Developer and IT Support Specialist with 2+ years of experience 
 
 - **Email:** mihai.childesco@gmail.com  
 - **LinkedIn:** [linkedin.com/in/mihai-childesco](https://www.linkedin.com/in/mihai-childesco/)  
-- **GitHub:** [github.com/mihai-childesco](https://github.com/mihai-childesco)  
+- **GitHub:** [github.com/mihai-childesco](https://github.com/mihaichildesco)  
 
 ## 📌 Recent Projects
 
